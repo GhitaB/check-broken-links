@@ -1,5 +1,5 @@
 FILENAME_SOURCE = "linksintegrity.txt"
-EXCLUDED_KEYWORDS = ["threads active", "Check time", "Size"]
+EXCLUDED_KEYWORDS = ["threads active", "Check time", "Size", "WARNING"]
 FILENAME_OUTPUT = "links-output.txt"
 
 with open(FILENAME_SOURCE) as f:
